@@ -110,7 +110,7 @@ ORDER BY
 
 *집계함수는 다중행 함수 / NULL 제외 계산이 원칙 / WHERE 절에서 사용 불가*
 
-*COUNT(*), COUNT(1), COUNT(0)은 모두 NULL을 포함하여 개수를 계산*
+*COUNT(\*), COUNT(1), COUNT(0)은 모두 NULL을 포함하여 개수를 계산*
 
 ### NULL 관련 함수
 
